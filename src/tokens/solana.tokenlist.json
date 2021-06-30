@@ -6182,7 +6182,12 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list/assets/mainnet/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW/logo.png",
       "tags": [],
       "extensions": {
-        "website": "https://solanium.io/"
+        "website": "https://solanium.io/",
+        "coingeckoId": "solanium",
+        "twitter": "https://twitter.com/solanium_io",
+        "medium": "https://solanium.medium.com/",
+        "telegram": "https://t.me/SolaniumBot",
+        "waterfallbot": "https://bit.ly/SLIMwaterfall"
       }
     }
   ],
